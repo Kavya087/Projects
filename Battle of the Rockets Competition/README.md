@@ -9,8 +9,8 @@ Unfortunately due to COVID-19 we were unable to fully integrate this projects. H
 
 ## File Description
 - CDR: A description of the various components of our project 
-- BOTR_Rocket: An OpenRocket file with the final design of our rocket
-- Pictures: Pictures of the dual-deploy rocket test flight 
+- BOTR_Rocket: An OpenRocket file with the final design of our rocket 
+- Pictures: Pictures of the rocket test flight with dummy payload consisting of just the rover electronics 
 
 ## Competition Link
 http://rocketbattle.org/index.html
